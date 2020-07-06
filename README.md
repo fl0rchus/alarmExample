@@ -1,4 +1,4 @@
-# Alarm  🕑 
+# Alarm  ⏰
 
 Práctica de una alarma funcional
 
